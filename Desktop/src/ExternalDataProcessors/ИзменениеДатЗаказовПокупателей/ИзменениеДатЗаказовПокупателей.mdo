@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9ad316fa-a328-40fa-ac03-791d86193c4a">
+  <producedTypes>
+    <objectType typeId="36577aa4-a1e6-4c29-b840-06ad8a7a853b" valueTypeId="85fe831c-7f4b-452f-b481-7e5f8e5a4c52"/>
+  </producedTypes>
+  <name>ИзменениеДатЗаказовПокупателей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Изменение дат заказов покупателей</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="09b2c6b4-fef8-48b0-9235-fa8559ac7479"/>
+  <defaultForm>ExternalDataProcessor.ИзменениеДатЗаказовПокупателей.Form.Форма</defaultForm>
+  <forms uuid="cb331f4b-f9cb-40ac-8a5a-d5216d7aed9b">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
